@@ -3,5 +3,4 @@ nltk
 keras
 tensorflow
 flask
-pickle5
 numpy
