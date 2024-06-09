@@ -1,5 +1,4 @@
-flask
 streamlit
 nltk
-numpy
 keras
+tensorflow
