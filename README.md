@@ -4,10 +4,9 @@ Deskripsi singkat tentang proyek ini.
 
 ## Nama Kelompok
 
-Nama: [Nama Anda](https://www.linkedin.com/in/nama-anda/)
+Nama: [Aditya Maulana](https://www.linkedin.com/in/nama-anda/)
 
-## Link Tambahan Code Chatbot
-
-[Link](hhttps://github.com/adit4554/chabot111.git)
+## Link Tambahan Code Chatbot 
+[Link](https://bit.ly/4bSoEv5)
 
 ## tambahakan apa di bawah
